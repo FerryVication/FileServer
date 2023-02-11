@@ -1,2 +1,4 @@
 Kintilidin
 1|0|4|9|3|u|0|_|a|4|9|3
+https://raw.githubusercontent.com/CyberCarboon2/FileServer/main/ID.txt
+https://github.com/CyberCarboon2/status/blob/main/myUserSc.txt
