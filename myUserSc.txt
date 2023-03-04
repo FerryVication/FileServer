@@ -8,3 +8,4 @@ setyo budo 10133u0_a133
 10269u0_a269
 sandi 10283u0_a283
 luthfi 10424u0_a424
+gio 10604u0_a604
