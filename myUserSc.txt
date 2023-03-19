@@ -10,12 +10,4 @@
 7.Een 1c0c9c4c5cuc0c_cac9c4c5 ( 23 Maret )
 8.sam 1c0c6c1c1cuc0c_cac6c1c1 ( 25 Maret )
 #--------[ User Trial Dibawah Ini ]---------#
-repal 1c0c2c7c0cuc0c_cac2c7c0
-ara 1c0c3c6c3cuc0c_cac3c6c3
-Sara Maghfirah 1c0c1c3c7cuc0c_cac1c3c7
-Denzz 1c0c5c6c7cuc0c_cac5c6c7
-Samudra 1c0c2c0c9cuc0c_cac2c0c9
-maz 1c1c3c2c8cuc0c_cac1c3c2c8
-aden 1c0c2c7c7cuc0c_cac2c7c7
-kevin hong 1c0c4c7c1cuc0c_cac4c7c1
-torik 1c0c2c5c0cuc0c_cac2c5c0
+
