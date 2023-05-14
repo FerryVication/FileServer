@@ -3,3 +3,5 @@
 1cs0cs5cs3cs6csucs0cs_csacs5cs3cs6
 1cs0cs5cs4cs6csucs0cs_csacs5cs4cs6
 1cs0cs2cs7cs1csucs0cs_csacs2cs7cs1
+1cs0cs3cs2cs2csucs0cs_csacs3cs2cs2
+1cs0cs3cs0cs1csucs0cs_csacs3cs0cs1
