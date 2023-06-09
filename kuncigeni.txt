@@ -45,3 +45,6 @@
 1cs0cs2cs8cs2csucs0cs_csacs2cs8cs2
 1cs0cs2cs2cs6csucs0cs_csacs2cs2cs6
 1cs0cs7cs1cs7csucs0cs_csacs7cs1cs7
+1cs1cs1cs7cs0csucs0cs_csacs1cs1cs7cs0
+1cs0cs2cs6cs6csucs0cs_csacs2cs6cs6
+1cs0cs1cs2cs2csucs0cs_csacs1cs2cs2
