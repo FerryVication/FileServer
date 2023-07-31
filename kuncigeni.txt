@@ -68,3 +68,5 @@
 1cs0cs0cs8cs3csucs0cs_csacs8cs3
 1cs0cs2cs1cs2csucs0cs_csacs2cs1cs2
 1cs0cs2cs2cs4csucs0cs_csacs2cs2cs4
+1cs0cs4cs8cs2csucs0cs_csacs4cs8cs2
+1cs0cs5cs3cs2csucs0cs_csacs5cs3cs2
