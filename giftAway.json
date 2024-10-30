@@ -1,6 +1,7 @@
 {
-  "key": "MEMBERKIKIR",
-  "kodeReff": "MEMBERKIKIR",
-  "limit": "20",
-  "expiredDate": "27/10/2024"
+  "key": "ADMINBAIK",
+  "kodeReff": "ADMINBAIK",
+  "limit": "10",
+  "bataslimit": "10",
+  "expiredDate": "31/10/2024"
 }
