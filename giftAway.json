@@ -1,7 +1,7 @@
 {
-  "key": "ADMINBAIK",
-  "kodeReff": "ADMINBAIK",
+  "key": "KOMPENMTSERVER",
+  "kodeReff": "KOMPENMTSERVER",
   "limit": "10",
-  "bataslimit": "10",
-  "expiredDate": "31/10/2024"
+  "bataslimit": "0",
+  "expiredDate": "22/10/2024"
 }
