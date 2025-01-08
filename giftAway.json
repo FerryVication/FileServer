@@ -1,7 +1,7 @@
 {
-  "key": "HAPPYNEWYEAR",
-  "kodeReff": "HAPPYNEWYEAR",
-  "limit": "25",
-  "bataslimit": "25",
-  "expiredDate": "2/1/2025"
+  "key": "TAHUNBARUSEMANGATBARU",
+  "kodeReff": "TAHUNBARUSEMANGATBARU",
+  "limit": "20",
+  "bataslimit": "15",
+  "expiredDate": "9/1/2025"
 }
