@@ -1,7 +1,7 @@
 {
-  "key": "TAHUNBARUSEMANGATBARU",
-  "kodeReff": "TAHUNBARUSEMANGATBARU",
-  "limit": "20",
-  "bataslimit": "15",
-  "expiredDate": "9/1/2025"
+  "key": "KOMPENSRV",
+  "kodeReff": "KOMPENSRV",
+  "limit": "15",
+  "bataslimit": "5",
+  "expiredDate": "2/2/2025"
 }
