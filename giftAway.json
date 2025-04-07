@@ -1,7 +1,7 @@
 {
-  "key": "KOMPENBUG",
-  "kodeReff": "KOMPENBUG",
+  "key": "DARIOWNER",
+  "kodeReff": "DARIOWNER",
   "limit": "15",
-  "bataslimit": "10",
-  "expiredDate": "7/2/2025"
+  "bataslimit": "50",
+  "expiredDate": "8/4/2025"
 }
